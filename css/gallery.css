@@ -23,6 +23,9 @@
 	.gallery{
 		display: inline-block;
 	}
+        .gallery-image{
+          margin-left:12px;
+}
 	.gallery-image img{
 	height: 200px;
     width: 340px;
